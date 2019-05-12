@@ -17,3 +17,5 @@ McHenry_Election_Data
     GE2014
       folder for future subdirectory of 2014 General Election precinct csv files
     Output Precinct .csv files
+.ds_Store- I have no idea what this is or where it came from. 
+.idea- I have no idea what this is or where it came from, but it appears to be some sort of XML version of this project. 
