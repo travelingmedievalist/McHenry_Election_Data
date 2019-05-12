@@ -1,1 +1,620 @@
 ContestName,CandidateName,PartyName,Registration,VoteCount,VoterTurnout,PrecinctName,ElectionYear
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,1320,635,48.0,NUNDA 21,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,1417,593,42.0,NUNDA 22,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,1033,508,49.0,NUNDA 20,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,1121,442,39.0,NUNDA 24,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,1169,381,33.0,NUNDA 27,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,903,356,39.0,NUNDA 25,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,1169,330,28.0,NUNDA 27,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,1417,318,22.0,NUNDA 22,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,1023,293,29.0,NUNDA 26,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,1023,274,27.0,NUNDA 26,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,1121,273,24.0,NUNDA 24,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,1320,267,20.0,NUNDA 21,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,903,229,25.0,NUNDA 25,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,677,212,31.0,NUNDA 28,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,677,195,29.0,NUNDA 28,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,598,187,31.0,NUNDA 23,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,1033,184,18.0,NUNDA 20,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,598,177,30.0,NUNDA 23,2016_General Election
+14TH CONGRESS,"RANDALL M. ""RANDY"" HULTGREN",Republican,347,160,46.0,NUNDA 29,2016_General Election
+14TH CONGRESS,JIM WALZ,Democrat,347,73,21.0,NUNDA 29,2016_General Election
+14TH CONGRESS,Blank Ballots,,1121,40,4.0,NUNDA 24,2016_General Election
+14TH CONGRESS,Blank Ballots,,1169,33,3.0,NUNDA 27,2016_General Election
+14TH CONGRESS,Blank Ballots,,1320,29,2.0,NUNDA 21,2016_General Election
+14TH CONGRESS,Blank Ballots,,1417,29,2.0,NUNDA 22,2016_General Election
+14TH CONGRESS,Blank Ballots,,677,29,4.0,NUNDA 28,2016_General Election
+14TH CONGRESS,Blank Ballots,,1023,27,3.0,NUNDA 26,2016_General Election
+14TH CONGRESS,Blank Ballots,,903,25,3.0,NUNDA 25,2016_General Election
+14TH CONGRESS,Blank Ballots,,1033,20,2.0,NUNDA 20,2016_General Election
+14TH CONGRESS,Blank Ballots,,598,20,3.0,NUNDA 23,2016_General Election
+14TH CONGRESS,Blank Ballots,,347,15,4.0,NUNDA 29,2016_General Election
+14TH CONGRESS,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+14TH CONGRESS,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+14TH CONGRESS,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+14TH CONGRESS,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+14TH CONGRESS,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+14TH CONGRESS,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+14TH CONGRESS,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+14TH CONGRESS,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+14TH CONGRESS,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+14TH CONGRESS,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+14TH CONGRESS,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+14TH CONGRESS,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+14TH CONGRESS,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+14TH CONGRESS,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+14TH CONGRESS,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+14TH CONGRESS,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+14TH CONGRESS,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+14TH CONGRESS,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+14TH CONGRESS,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+14TH CONGRESS,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,1417,745,53.0,NUNDA 22,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,1320,740,56.0,NUNDA 21,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,1033,595,58.0,NUNDA 20,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,1121,567,51.0,NUNDA 24,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,1169,552,47.0,NUNDA 27,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,903,470,52.0,NUNDA 25,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,1023,436,43.0,NUNDA 26,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,677,316,47.0,NUNDA 28,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,598,273,46.0,NUNDA 23,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,JAMES S. COWLIN,Republican,347,199,57.0,NUNDA 29,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,1417,195,14.0,NUNDA 22,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,1169,192,16.0,NUNDA 27,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,1320,187,14.0,NUNDA 21,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,1121,187,17.0,NUNDA 24,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,1023,158,15.0,NUNDA 26,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,903,138,15.0,NUNDA 25,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,677,120,18.0,NUNDA 28,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,1033,117,11.0,NUNDA 20,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,598,111,19.0,NUNDA 23,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Blank Ballots,,347,49,14.0,NUNDA 29,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+22ND CIRCUIT- GRAHAM VACANCY,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+26TH SENATE,DAN McCONCHIE,Republican,1417,468,33.0,NUNDA 22,2016_General Election
+26TH SENATE,DAN McCONCHIE,Republican,903,349,39.0,NUNDA 25,2016_General Election
+26TH SENATE,DAN McCONCHIE,Republican,1023,284,28.0,NUNDA 26,2016_General Election
+26TH SENATE,KELLY MAZESKI,Democrat,1023,277,27.0,NUNDA 26,2016_General Election
+26TH SENATE,KELLY MAZESKI,Democrat,1417,249,18.0,NUNDA 22,2016_General Election
+26TH SENATE,KELLY MAZESKI,Democrat,903,231,26.0,NUNDA 25,2016_General Election
+26TH SENATE,DAN McCONCHIE,Republican,677,216,32.0,NUNDA 28,2016_General Election
+26TH SENATE,KELLY MAZESKI,Democrat,677,184,27.0,NUNDA 28,2016_General Election
+26TH SENATE,KELLY MAZESKI,Democrat,598,183,31.0,NUNDA 23,2016_General Election
+26TH SENATE,DAN McCONCHIE,Republican,598,179,30.0,NUNDA 23,2016_General Election
+26TH SENATE,Blank Ballots,,677,36,5.0,NUNDA 28,2016_General Election
+26TH SENATE,Blank Ballots,,1417,35,2.0,NUNDA 22,2016_General Election
+26TH SENATE,Blank Ballots,,1023,33,3.0,NUNDA 26,2016_General Election
+26TH SENATE,Blank Ballots,,903,28,3.0,NUNDA 25,2016_General Election
+26TH SENATE,Blank Ballots,,598,22,4.0,NUNDA 23,2016_General Election
+26TH SENATE,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+26TH SENATE,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+26TH SENATE,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+26TH SENATE,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+26TH SENATE,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+26TH SENATE,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+26TH SENATE,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+26TH SENATE,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+26TH SENATE,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+26TH SENATE,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+32ND SENATE,PAMELA ALTHOFF,Republican,1320,681,52.0,NUNDA 21,2016_General Election
+32ND SENATE,PAMELA ALTHOFF,Republican,1033,548,53.0,NUNDA 20,2016_General Election
+32ND SENATE,PAMELA ALTHOFF,Republican,1121,522,47.0,NUNDA 24,2016_General Election
+32ND SENATE,PAMELA ALTHOFF,Republican,1169,436,37.0,NUNDA 27,2016_General Election
+32ND SENATE,MELISSA COYNE,Democrat,1169,273,23.0,NUNDA 27,2016_General Election
+32ND SENATE,MELISSA COYNE,Democrat,1320,221,17.0,NUNDA 21,2016_General Election
+32ND SENATE,MELISSA COYNE,Democrat,1121,207,18.0,NUNDA 24,2016_General Election
+32ND SENATE,PAMELA ALTHOFF,Republican,347,182,52.0,NUNDA 29,2016_General Election
+32ND SENATE,MELISSA COYNE,Democrat,1033,145,14.0,NUNDA 20,2016_General Election
+32ND SENATE,PAMELA ALTHOFF,Republican,1417,127,9.0,NUNDA 22,2016_General Election
+32ND SENATE,MELISSA COYNE,Democrat,1417,55,4.0,NUNDA 22,2016_General Election
+32ND SENATE,MELISSA COYNE,Democrat,347,50,14.0,NUNDA 29,2016_General Election
+32ND SENATE,Blank Ballots,,1169,35,3.0,NUNDA 27,2016_General Election
+32ND SENATE,Blank Ballots,,1320,25,2.0,NUNDA 21,2016_General Election
+32ND SENATE,Blank Ballots,,1121,25,2.0,NUNDA 24,2016_General Election
+32ND SENATE,Blank Ballots,,1033,19,2.0,NUNDA 20,2016_General Election
+32ND SENATE,Blank Ballots,,347,16,5.0,NUNDA 29,2016_General Election
+32ND SENATE,Blank Ballots,,1417,6,0.0,NUNDA 22,2016_General Election
+32ND SENATE,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+32ND SENATE,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+32ND SENATE,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+32ND SENATE,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+32ND SENATE,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+32ND SENATE,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+32ND SENATE,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+32ND SENATE,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+32ND SENATE,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+32ND SENATE,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+32ND SENATE,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+32ND SENATE,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+52ND REPRESENTATIVE,DAVID McSWEENEY,Republican,1417,612,43.0,NUNDA 22,2016_General Election
+52ND REPRESENTATIVE,DAVID McSWEENEY,Republican,903,487,54.0,NUNDA 25,2016_General Election
+52ND REPRESENTATIVE,DAVID McSWEENEY,Republican,1023,441,43.0,NUNDA 26,2016_General Election
+52ND REPRESENTATIVE,DAVID McSWEENEY,Republican,677,325,48.0,NUNDA 28,2016_General Election
+52ND REPRESENTATIVE,DAVID McSWEENEY,Republican,598,287,48.0,NUNDA 23,2016_General Election
+52ND REPRESENTATIVE,Blank Ballots,,1023,153,15.0,NUNDA 26,2016_General Election
+52ND REPRESENTATIVE,Blank Ballots,,1417,140,10.0,NUNDA 22,2016_General Election
+52ND REPRESENTATIVE,Blank Ballots,,903,121,13.0,NUNDA 25,2016_General Election
+52ND REPRESENTATIVE,Blank Ballots,,677,111,16.0,NUNDA 28,2016_General Election
+52ND REPRESENTATIVE,Blank Ballots,,598,97,16.0,NUNDA 23,2016_General Election
+52ND REPRESENTATIVE,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+52ND REPRESENTATIVE,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+52ND REPRESENTATIVE,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+52ND REPRESENTATIVE,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+52ND REPRESENTATIVE,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+52ND REPRESENTATIVE,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+52ND REPRESENTATIVE,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+52ND REPRESENTATIVE,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+52ND REPRESENTATIVE,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+52ND REPRESENTATIVE,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+52ND REPRESENTATIVE,Chris Bauman WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+52ND REPRESENTATIVE,Write-in,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+52ND REPRESENTATIVE,Chris Bauman WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+52ND REPRESENTATIVE,Write-in,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+52ND REPRESENTATIVE,Chris Bauman WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+52ND REPRESENTATIVE,Write-in,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+52ND REPRESENTATIVE,Chris Bauman WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+52ND REPRESENTATIVE,Write-in,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+52ND REPRESENTATIVE,Chris Bauman WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+52ND REPRESENTATIVE,Write-in,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+64TH REPRESENTATIVE,BARBARA WHEELER,Republican,1320,756,57.0,NUNDA 21,2016_General Election
+64TH REPRESENTATIVE,BARBARA WHEELER,Republican,1033,600,58.0,NUNDA 20,2016_General Election
+64TH REPRESENTATIVE,BARBARA WHEELER,Republican,1121,579,52.0,NUNDA 24,2016_General Election
+64TH REPRESENTATIVE,BARBARA WHEELER,Republican,1169,555,47.0,NUNDA 27,2016_General Election
+64TH REPRESENTATIVE,BARBARA WHEELER,Republican,347,201,58.0,NUNDA 29,2016_General Election
+64TH REPRESENTATIVE,Blank Ballots,,1169,189,16.0,NUNDA 27,2016_General Election
+64TH REPRESENTATIVE,Blank Ballots,,1121,175,16.0,NUNDA 24,2016_General Election
+64TH REPRESENTATIVE,Blank Ballots,,1320,171,13.0,NUNDA 21,2016_General Election
+64TH REPRESENTATIVE,BARBARA WHEELER,Republican,1417,146,10.0,NUNDA 22,2016_General Election
+64TH REPRESENTATIVE,Blank Ballots,,1033,112,11.0,NUNDA 20,2016_General Election
+64TH REPRESENTATIVE,Blank Ballots,,347,47,14.0,NUNDA 29,2016_General Election
+64TH REPRESENTATIVE,Blank Ballots,,1417,42,3.0,NUNDA 22,2016_General Election
+64TH REPRESENTATIVE,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+64TH REPRESENTATIVE,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+64TH REPRESENTATIVE,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+64TH REPRESENTATIVE,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+64TH REPRESENTATIVE,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+64TH REPRESENTATIVE,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+64TH REPRESENTATIVE,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+64TH REPRESENTATIVE,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+64TH REPRESENTATIVE,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+64TH REPRESENTATIVE,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+64TH REPRESENTATIVE,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+64TH REPRESENTATIVE,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,1320,616,47.0,NUNDA 21,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,1417,584,41.0,NUNDA 22,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,1033,503,49.0,NUNDA 20,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,1121,410,37.0,NUNDA 24,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,1169,370,32.0,NUNDA 27,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,903,358,40.0,NUNDA 25,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,1169,282,24.0,NUNDA 27,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,1417,278,20.0,NUNDA 22,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,1023,267,26.0,NUNDA 26,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,1023,253,25.0,NUNDA 26,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,1121,246,22.0,NUNDA 24,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,1320,237,18.0,NUNDA 21,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,677,211,31.0,NUNDA 28,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,903,201,22.0,NUNDA 25,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,598,175,29.0,NUNDA 23,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,598,167,28.0,NUNDA 23,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,677,165,24.0,NUNDA 28,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,1033,164,16.0,NUNDA 20,2016_General Election
+COMPTROLLER,LESLIE GEISSLER MUNGER,Republican,347,155,45.0,NUNDA 29,2016_General Election
+COMPTROLLER,SUSANA MENDOZA,Democrat,347,69,20.0,NUNDA 29,2016_General Election
+COMPTROLLER,Blank Ballots,,1121,38,3.0,NUNDA 24,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,1121,37,3.0,NUNDA 24,2016_General Election
+COMPTROLLER,Blank Ballots,,1169,36,3.0,NUNDA 27,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,1023,34,3.0,NUNDA 26,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,1320,31,2.0,NUNDA 21,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,1417,31,2.0,NUNDA 22,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,1169,30,3.0,NUNDA 27,2016_General Election
+COMPTROLLER,Blank Ballots,,1320,29,2.0,NUNDA 21,2016_General Election
+COMPTROLLER,Blank Ballots,,1417,27,2.0,NUNDA 22,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,677,27,4.0,NUNDA 28,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,1169,26,2.0,NUNDA 27,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,903,25,3.0,NUNDA 25,2016_General Election
+COMPTROLLER,Blank Ballots,,1023,24,2.0,NUNDA 26,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,1121,23,2.0,NUNDA 24,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,1033,21,2.0,NUNDA 20,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,1417,20,1.0,NUNDA 22,2016_General Election
+COMPTROLLER,Blank Ballots,,598,18,3.0,NUNDA 23,2016_General Election
+COMPTROLLER,Blank Ballots,,677,17,3.0,NUNDA 28,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,1023,16,2.0,NUNDA 26,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,677,16,2.0,NUNDA 28,2016_General Election
+COMPTROLLER,Blank Ballots,,1033,14,1.0,NUNDA 20,2016_General Election
+COMPTROLLER,Blank Ballots,,347,14,4.0,NUNDA 29,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,1320,14,1.0,NUNDA 21,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,598,13,2.0,NUNDA 23,2016_General Election
+COMPTROLLER,Blank Ballots,,903,12,1.0,NUNDA 25,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,903,12,1.0,NUNDA 25,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,598,11,2.0,NUNDA 23,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,1033,10,1.0,NUNDA 20,2016_General Election
+COMPTROLLER,TIM CURTIN,Green,347,6,2.0,NUNDA 29,2016_General Election
+COMPTROLLER,CLAIRE BALL,Libertarian,347,4,1.0,NUNDA 29,2016_General Election
+COMPTROLLER,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+COMPTROLLER,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+COMPTROLLER,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+COMPTROLLER,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+COMPTROLLER,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+COMPTROLLER,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+COMPTROLLER,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+COMPTROLLER,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+COMPTROLLER,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+COMPTROLLER,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+COMPTROLLER,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+COMPTROLLER,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+COMPTROLLER,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+COMPTROLLER,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+COMPTROLLER,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+COMPTROLLER,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+COMPTROLLER,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+COMPTROLLER,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+COMPTROLLER,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+COMPTROLLER,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,1417,689,49.0,NUNDA 22,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,1320,661,50.0,NUNDA 21,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,1121,578,52.0,NUNDA 24,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,1169,550,47.0,NUNDA 27,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,1033,519,50.0,NUNDA 20,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,903,459,51.0,NUNDA 25,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,1023,430,42.0,NUNDA 26,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,677,309,46.0,NUNDA 28,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,598,280,47.0,NUNDA 23,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,1320,202,15.0,NUNDA 21,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,1417,193,14.0,NUNDA 22,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,YES,NonPartisan,347,172,50.0,NUNDA 29,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,1033,148,14.0,NUNDA 20,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,1169,141,12.0,NUNDA 27,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,1121,133,12.0,NUNDA 24,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,903,113,13.0,NUNDA 25,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,1023,105,10.0,NUNDA 26,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,677,94,14.0,NUNDA 28,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,598,72,12.0,NUNDA 23,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,1320,64,5.0,NUNDA 21,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,1023,59,6.0,NUNDA 26,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,1417,58,4.0,NUNDA 22,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,1169,53,5.0,NUNDA 27,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,NO,NonPartisan,347,52,15.0,NUNDA 29,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,1033,45,4.0,NUNDA 20,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,1121,43,4.0,NUNDA 24,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,903,36,4.0,NUNDA 25,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,677,33,5.0,NUNDA 28,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,598,32,5.0,NUNDA 23,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Blank Ballots,,347,24,7.0,NUNDA 29,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+For the proposed addition of Section 11 to Article IX of the Illinois Constitution.,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,1320,499,38.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,1417,455,32.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,1033,407,39.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,1121,387,35.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,1417,377,27.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,1169,360,31.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,1320,338,26.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,1169,331,28.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,903,296,33.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,1121,290,26.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,1023,280,27.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,1023,260,25.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,903,257,28.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,1033,248,24.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,677,205,30.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,677,194,29.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,598,191,32.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,598,160,27.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,DONALD J. TRUMP,Republican,347,120,35.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,HILLARY RODHAM CLINTON,Democrat,347,102,29.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,1417,56,4.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,1320,55,4.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,1121,46,4.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,1023,32,3.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,1417,31,2.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,903,30,3.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,1033,27,3.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,1033,27,3.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,677,24,4.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,1320,22,2.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,1169,22,2.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,598,21,4.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,1169,19,2.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,1417,17,1.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,1121,15,1.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,1023,15,1.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,903,14,2.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,1121,14,1.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,903,13,1.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,GARY JOHNSON,Libertarian,347,12,3.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,1169,10,1.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,347,10,3.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,1320,9,1.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,1023,7,1.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,677,7,1.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,1320,7,1.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,598,6,1.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Blank Ballots,,677,6,1.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,598,5,1.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,1417,4,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,1033,3,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,1121,3,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,347,3,1.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,JILL STEIN,Green,347,1,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,1320,1,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,598,1,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,1169,1,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,1169,1,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Evan McMullin WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Write-in,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Laio Morris WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,David G . Stack WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Tom Hoefling WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Jonathan Lee WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Dem J. Wysinger WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Schoenke/Mitch..WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Castle/Bradley WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+PRESIDENT AND VICE PRESIDENT,Kotlikoff/Leam..WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,1320,561,42.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,1417,503,35.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,1033,450,44.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,1121,379,34.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,1417,354,25.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,1169,338,29.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,1169,332,28.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,903,314,35.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,1320,303,23.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,1121,294,26.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,1023,280,27.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,903,247,27.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,1023,238,23.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,1033,214,21.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,677,192,28.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,677,183,27.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,598,174,29.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,598,165,28.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,MARK STEVEN KIRK,Republican,347,148,43.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,TAMMY DUCKWORTH,Democrat,347,79,23.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,1023,45,4.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,1417,40,3.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,1121,36,3.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,1320,34,3.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,677,31,5.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,1169,27,2.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,1033,25,2.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,903,25,3.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,1169,24,2.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,598,24,4.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,1121,23,2.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,1169,23,2.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,1121,23,2.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,1417,22,2.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,1320,20,2.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,1417,20,1.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,1023,19,2.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,677,17,3.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,1033,15,1.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,903,15,2.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,1320,13,1.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,677,13,2.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,1023,12,1.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,598,12,2.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,347,11,3.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,598,9,2.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Blank Ballots,,903,9,1.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,KENTON McMILLEN,Libertarian,347,9,3.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,1033,8,1.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,SCOTT SUMMERS,Green,347,1,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,1417,1,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Under Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Over Votes,,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Under Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Over Votes,,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Under Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Over Votes,,1417,0,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Under Votes,,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Over Votes,,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Under Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Over Votes,,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Under Votes,,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Over Votes,,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Under Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Over Votes,,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Under Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Over Votes,,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Under Votes,,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Over Votes,,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Under Votes,,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Over Votes,,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,1033,0,0.0,NUNDA 20,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,1320,0,0.0,NUNDA 21,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,1417,0,0.0,NUNDA 22,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,598,0,0.0,NUNDA 23,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,1121,0,0.0,NUNDA 24,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,903,0,0.0,NUNDA 25,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,1023,0,0.0,NUNDA 26,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,1169,0,0.0,NUNDA 27,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,677,0,0.0,NUNDA 28,2016_General Election
+UNITED STATES SENATOR,Write-in,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Jim Brown WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Susana Sandoval WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Chad Koppie WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Eric K J Stewert WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election
+UNITED STATES SENATOR,Chris M Aguayo WRI,NonPartisan,347,0,0.0,NUNDA 29,2016_General Election

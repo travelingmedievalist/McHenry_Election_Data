@@ -47,7 +47,7 @@ McH2018GE_Sorted = McH2018GE_cleaned.sort_values(by= ["ContestName", "VoteCount"
 
 def pullprecinctdata14(precinctname): # function to pull out specified precinct
     PRECINCTNAME= precinctname.upper()
-    precinctdataname = McH2014GE_Sorted[McH2014GE_Sorted['PrecinctName'].str.contains(PRECINCTNAME)]
+    precinctdataname = McH2014GE_Sorted[McH2014GE_Sorted['PrecinctName'].str.match(PRECINCTNAME)]
     fileout= precinctname + "_2014-General" + ".csv"   #I was having problems getting the file name to come out of the info in dataframe, so I opted for 3 functions instead of 1,
     filename= fileout.lower()                         # I want to combine the 3 functions in the future
     precinctdataname.to_csv (filename, index = 0)  # Eventually I would like to figure out how to have the data save to a subdirectory
@@ -57,7 +57,7 @@ def pullprecinctdata14(precinctname): # function to pull out specified precinct
 
 def pullprecinctdata16(precinctname):
     PRECINCTNAME= precinctname.upper()
-    precinctdataname = McH2016GE_Sorted[McH2016GE_Sorted['PrecinctName'].str.contains(PRECINCTNAME)]
+    precinctdataname = McH2016GE_Sorted[McH2016GE_Sorted['PrecinctName'].str.match(PRECINCTNAME)]
     fileout= precinctname + "_2016-General" + ".csv"
     filename= fileout.lower()
     precinctdataname.to_csv (filename, index = 0)
@@ -65,7 +65,7 @@ def pullprecinctdata16(precinctname):
 
 def pullprecinctdata18(precinctname):
     PRECINCTNAME= precinctname.upper()
-    precinctdataname = McH2018GE_Sorted[McH2018GE_Sorted['PrecinctName'].str.contains(PRECINCTNAME)]
+    precinctdataname = McH2018GE_Sorted[McH2018GE_Sorted['PrecinctName'].str.match(PRECINCTNAME)]
     fileout= precinctname + "_2018-General" + ".csv"
     filename= fileout.lower()
     precinctdataname.to_csv (filename)
