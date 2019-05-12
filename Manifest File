@@ -1,0 +1,19 @@
+Project for University of Illinois, iSchool, IS452- Spring2019
+created by Jennifer Wegmann-Gabb using PyCharm, GitHub desktop, TextEditor, MSWord
+
+File Structure:
+McHenry_Election_Data
+  Read Me!
+  IS452- Final Project Narrative
+  Final ProjectElection Data
+    Final Project-Election Results.py
+    McHENRY2014GE.csv
+    McHENRY2016GP.csv
+    McHENRY2016GE.csv
+    McHENRY2018GE.csv
+    McHenry_County_Precinct_Names.txt
+    McHenry_Precinct_Names.csv
+    Precinct Names.py
+    GE2014
+      folder for future subdirectory of 2014 General Election precinct csv files
+    Output Precinct .csv files
