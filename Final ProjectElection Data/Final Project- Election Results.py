@@ -47,12 +47,10 @@ McH2018GE_Sorted = McH2018GE_cleaned.sort_values(by= ["ContestName", "VoteCount"
 
 def pullprecinctdata14(precinctname): # function to pull out specified precinct
     PRECINCTNAME= precinctname.upper()
-    matchedname = re.match('^/w   $', PRECINCTNAME)
-    if
-        precinctdataname = McH2014GE_Sorted[McH2014GE_Sorted['PrecinctName'].str.contains(PRECINCTNAME)]
-        fileout= precinctname + "_2014-General" + ".csv"   #I was having problems getting the file name to come out of the info in dataframe, so I opted for 3 functions instead of 1,
-        filename= fileout.lower()                         # I want to combine the 3 functions in the future
-        precinctdataname.to_csv (filename, index = 0)  # Eventually I would like to figure out how to have the data save to a subdirectory
+    precinctdataname = McH2014GE_Sorted[McH2014GE_Sorted['PrecinctName'].str.contains(PRECINCTNAME)]
+    fileout= precinctname + "_2014-General" + ".csv"   #I was having problems getting the file name to come out of the info in dataframe, so I opted for 3 functions instead of 1,
+    filename= fileout.lower()                         # I want to combine the 3 functions in the future
+    precinctdataname.to_csv (filename, index = 0)  # Eventually I would like to figure out how to have the data save to a subdirectory
     return
 
 
@@ -81,11 +79,11 @@ infile.close()
 PrecinctNameList= namelist.split('\n')
 
 
-#
-# for precinct in PrecinctNameList:
-#     pullprecinctdata14(precinct)
-#     pullprecinctdata16(precinct)
-#     pullprecinctdata18(precinct)
+
+for precinct in PrecinctNameList:
+    pullprecinctdata14(precinct)
+    pullprecinctdata16(precinct)
+    pullprecinctdata18(precinct)
 
 
 ####OMG It totally worked!!!  I am so proud of myself####
