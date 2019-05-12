@@ -1,5 +1,6 @@
 import pandas as pd
-import numpy as np #not sure why this wont import as I have added numpy package to the interpreter via the preferences for this project
+import numpy as np
+import re
 
 pd.set_option('display.max_columns',8) # I wasn't seeing all my columns and I needed to in order to make sure my added columns happened
 pd.set_option('display.max_row',10) # I was getting too much that I didn't need to make sure things were working, so I limited the number displayed
@@ -46,11 +47,14 @@ McH2018GE_Sorted = McH2018GE_cleaned.sort_values(by= ["ContestName", "VoteCount"
 
 def pullprecinctdata14(precinctname): # function to pull out specified precinct
     PRECINCTNAME= precinctname.upper()
-    precinctdataname = McH2014GE_Sorted[McH2014GE_Sorted['PrecinctName'].str.contains(PRECINCTNAME)]
-    fileout= precinctname + "_2014-General" + ".csv"   #I was having problems getting the file name to come out of the info in dataframe, so I opted for 3 functions instead of 1,
-    filename= fileout.lower()                         # I want to combine the 3 functions in the future
-    precinctdataname.to_csv (filename, index = 0)  # Eventually I would like to figure out how to have the data save to a subdirectory
+    matchedname = re.match('^/w   $', PRECINCTNAME)
+    if
+        precinctdataname = McH2014GE_Sorted[McH2014GE_Sorted['PrecinctName'].str.contains(PRECINCTNAME)]
+        fileout= precinctname + "_2014-General" + ".csv"   #I was having problems getting the file name to come out of the info in dataframe, so I opted for 3 functions instead of 1,
+        filename= fileout.lower()                         # I want to combine the 3 functions in the future
+        precinctdataname.to_csv (filename, index = 0)  # Eventually I would like to figure out how to have the data save to a subdirectory
     return
+
 
 
 def pullprecinctdata16(precinctname):
@@ -77,11 +81,11 @@ infile.close()
 PrecinctNameList= namelist.split('\n')
 
 
-
-for precinct in PrecinctNameList:
-    pullprecinctdata14(precinct)
-    pullprecinctdata16(precinct)
-    pullprecinctdata18(precinct)
+#
+# for precinct in PrecinctNameList:
+#     pullprecinctdata14(precinct)
+#     pullprecinctdata16(precinct)
+#     pullprecinctdata18(precinct)
 
 
 ####OMG It totally worked!!!  I am so proud of myself####
